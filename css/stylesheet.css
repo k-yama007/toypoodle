@@ -5,7 +5,7 @@ h1  {
 
   height:80px;
   width: 800px;
-
+  background-color: #9de8ea;
 
 }
 
@@ -19,4 +19,12 @@ img {
   height:50px;
   width: 70px;
 
+}
+
+li {
+  color: red;
+}
+
+.selected {
+  color: blue;
 }
