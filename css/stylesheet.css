@@ -1,10 +1,12 @@
 <!--- header --->
 .header-logo  {
   font-size: 36px
+  float:left;
 }
 
-.header-list  {
+.header-list li {
   list-style: none;
+  float: left;
 }
 
 
