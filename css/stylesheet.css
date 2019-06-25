@@ -45,8 +45,8 @@ body    {
 }
 
 .header-logo  {
-  font-size: 36px
-  float:left;
+    font-size: 36px;
+    float: left;
 }
 
 .header-list li{
