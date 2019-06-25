@@ -1,10 +1,20 @@
+<!--- header --->
+.header-logo  {
+  font-size: 36px
+}
+
+.header-list  {
+  list-style: none;
+}
+
+
 h1  {
   color:#ff0000;
   font-size: 40px;
   font-family: serif;
 
   height:80px;
-  width: 800px;
+  width: 500px;
   background-color: #9de8ea;
 
 }
@@ -16,8 +26,8 @@ p   {
 }
 
 img {
-  height:50px;
-  width: 70px;
+  height:200px;
+  width: 500px;
 
 }
 
@@ -26,10 +36,6 @@ ul  {
   margin-bottom: 0px;
 }
 
-li {
-  color: red;
-  list-style: none;
-}
 
 .selected {
   color: blue;
